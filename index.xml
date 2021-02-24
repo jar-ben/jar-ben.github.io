@@ -33,9 +33,17 @@
     </item>
     
     <item>
+      <title>Timed Automata Relaxation for Reachability</title>
+      <link>https://jar-ben.github.io/publication/bsgctacas21/</link>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://jar-ben.github.io/publication/bsgctacas21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Counting Maximal Satisfiable Subsets</title>
       <link>https://jar-ben.github.io/publication/bmaaai21/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://jar-ben.github.io/publication/bmaaai21/</guid>
       <description></description>
     </item>
@@ -112,6 +120,38 @@
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Replication-Guided Enumeration of Minimal Unsatisfiable Subsets</title>
+      <link>https://jar-ben.github.io/publication/bccp2020/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://jar-ben.github.io/publication/bccp2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximate Counting of Minimal Unsatisfiable Subsets</title>
+      <link>https://jar-ben.github.io/publication/bmcav20/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://jar-ben.github.io/publication/bmcav20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rotation Based MSS/MCS Enumeration</title>
+      <link>https://jar-ben.github.io/publication/bclpar2020/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://jar-ben.github.io/publication/bclpar2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MUST: Minimal Unsatisfiable Subsets Enumeration Tool</title>
+      <link>https://jar-ben.github.io/publication/bctacas2020/</link>
+      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://jar-ben.github.io/publication/bctacas2020/</guid>
+      <description></description>
     </item>
     
     <item>

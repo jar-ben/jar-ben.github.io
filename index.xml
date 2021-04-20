@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>Counting Minimal Unsatisfiable Subsets</title>
+      <link>https://jar-ben.github.io/publication/bmcav21/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://jar-ben.github.io/publication/bmcav21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Timed Automata Relaxation for Reachability</title>
       <link>https://jar-ben.github.io/publication/bsgctacas21/</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
@@ -281,6 +289,62 @@ Three
 &lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Evaluation of Domain Agnostic Approaches for Enumeration of Minimal Unsatisfiable Subsets</title>
+      <link>https://jar-ben.github.io/publication/bclpar2018/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://jar-ben.github.io/publication/bclpar2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding Regressions in Projects under Version Control Systems</title>
+      <link>https://jar-ben.github.io/publication/bbcicsoft2018/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://jar-ben.github.io/publication/bbcicsoft2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Enumeration of All Minimal Inductive Validity Cores</title>
+      <link>https://jar-ben.github.io/publication/bgwcsefm2018/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://jar-ben.github.io/publication/bgwcsefm2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recursive Online Enumeration of All Minimal Unsatisfiable Subsets</title>
+      <link>https://jar-ben.github.io/publication/bcbatva2018/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://jar-ben.github.io/publication/bcbatva2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consistency checking in requirements analysis</title>
+      <link>https://jar-ben.github.io/publication/bissta2017/</link>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://jar-ben.github.io/publication/bissta2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding Boundary Elements in Ordered Sets with Application to Safety and Requirements Analysis</title>
+      <link>https://jar-ben.github.io/publication/bbbcsefm2016/</link>
+      <pubDate>Mon, 27 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://jar-ben.github.io/publication/bbbcsefm2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tunable Online MUS/MSS Enumeration</title>
+      <link>https://jar-ben.github.io/publication/bbcbfsttcs2016/</link>
+      <pubDate>Mon, 27 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://jar-ben.github.io/publication/bbcbfsttcs2016/</guid>
+      <description></description>
     </item>
     
     <item>
